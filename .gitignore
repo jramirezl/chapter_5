@@ -5,6 +5,7 @@
 *.swo
 *.swm
 *.swn
+*.iml
 .sass-cache
 capybara-*.html
 .rspec
@@ -21,7 +22,6 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
-config/database.yml
 /*.swp/**/.
 *.swp
 .idea/*
